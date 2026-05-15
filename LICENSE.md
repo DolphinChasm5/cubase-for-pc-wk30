@@ -1,4 +1,4 @@
-# 
+# automatic Cubase for PC | Cubase for Windows Script | VST-support + automation offers the most advanced Cubase for PC | Cubase for Windows script, with VST-support and automation.
 
 
 
